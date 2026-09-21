@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(115 0.5 0.5)">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="700" height="700" fill="url(#g)"/>
+  <rect width="700" height="700" fill="url(#dots)"/>
+  <g transform="translate(350.0,315.0) scale(4.242424242424242)" opacity="0.85">
+  <rect x="-24" y="-24" width="48" height="48" rx="7" fill="none" stroke="#ffffff" stroke-width="2.4"/>
+  <circle cx="-11" cy="-11" r="4.5" fill="#ffffff"/>
+  <path d="M -24 12 L -6 -4 L 8 8 L 16 0 L 24 12" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  <text x="350.0" y="448.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36.4" font-weight="700" fill="#ffffff" opacity="0.95">Media Wall</text>
+  <text x="350.0" y="492.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="22.400000000000002" font-weight="500" fill="#ffffff" opacity="0.75">Replace with photo</text>
+</svg>
